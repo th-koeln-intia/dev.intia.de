@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome
+Welcome to the INTIA development documentation. It consists of all the artifacts that are created together with the community to make the world a better place. 
 
-You can use the [editor on GitHub](https://github.com/th-koeln-intia/intia-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### INTIA
+All artifacts mentioned in this documentation are created as part of the research project INTIA, which stands for *Inclusive Development of Methods and Technologies for Supporting Everyday Activities of Young People with Special Needs*.
+INTIA is an interdisciplinary research project conducted at the TH Köln.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more informations consider reading the official project [website](https://dites.web.th-koeln.de/forschung/projekte/research-projects-intia/) (also available in [german](https://dites.web.th-koeln.de/forschung/projekte/intia/))
 
-### Markdown
+### The Idea
+*Explanation of the idea of an innovative suitcase that consists of soft- & hardware modules, so called building blocks, which can be combined to create a prototype*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Content
+1. [Getting started](#Getting-started)
+1. [Further informations](#Further-informations)
+1. [How tos](#How-tos)
+1. [Integration](#Integration)
+1. [Contact](#contact)
 
-```markdown
-Syntax highlighted code block
+## Getting started
+*How to start with the project*
 
-# Header 1
-## Header 2
-### Header 3
+## Further informations
+*More detailed documentation for the patient reader*
 
-- Bulleted
-- List
+## How tos 
+*List of short guides that explain the solution for a specific problem*
+- [How to write a github page](how_tos/how_to_write_a_github_page.md)
 
-1. Numbered
-2. List
+## Integration
+*Informations about the integration of components in existing solutions*
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/th-koeln-intia/intia-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+- [Mail](mailto:INTIA@th-koeln.de)
