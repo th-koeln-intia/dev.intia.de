@@ -32,3 +32,5 @@ For more informations consider reading the official project [website](https://di
 
 ## Contact
 - [Mail](mailto:INTIA@th-koeln.de)
+
+[privacy](privacy.md)
